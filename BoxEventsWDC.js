@@ -65,7 +65,7 @@
     var settings = {
 	  "async": true,
 	  "crossDomain": true,
-	  "url": "https://api.box.com/2.0/events?stream_type=admin_logs&limit=500",
+	  "url": "https://api.box.com/2.0/events?stream_type=admin_logs&limit=50",
 	  "method": "GET",
 	  "headers": {
 	    "Authorization": "Bearer " + devToken,
