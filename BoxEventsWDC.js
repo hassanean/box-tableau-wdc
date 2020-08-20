@@ -69,8 +69,7 @@
 	  "method": "GET",
 	  "headers": {
 	    "Authorization": "Bearer " + devToken,
-	    "cache-control": "no-cache",
-	    "Postman-Token": "14b75a03-0884-4bb0-8a9a-f0bf96c2ea7d"
+	    "cache-control": "no-cache"
 	  }
 	}
 
